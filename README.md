@@ -27,3 +27,9 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 [![2023-12-14-121513.png](https://i.postimg.cc/1zrCMk1d/2023-12-14-121513.png)](https://postimg.cc/yJWy8rdh)
 [![20231214122148.jpg](https://i.postimg.cc/50PPW80q/20231214122148.jpg)](https://postimg.cc/vgV7Wg5c)
 [![20231214122157.jpg](https://i.postimg.cc/vTc0YDxR/20231214122157.jpg)](https://postimg.cc/vxwrXYvX)
+
+# 用户登录注册的序列图
+[![1.png](https://i.postimg.cc/nLKq9Wsc/1.png)](https://postimg.cc/2q61P2FP)
+
+# 用户发帖评论的序列图
+[![2.png](https://i.postimg.cc/zB0W0RSs/2.png)](https://postimg.cc/Kk3RYjWf)
